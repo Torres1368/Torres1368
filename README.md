@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sombre Mi:
 Soy estudiante de la Universidad Técnica de Cotopaxi.<br>Quisiera trabajar en una empresa de desarrollo de software.<br>Estoy en etapa de aprendizaje.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DashJam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/DashJam1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Torres1368) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@DashJam1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Torres1368) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC18xqaV6WYHXhrxahvkn6NQ) 
 
 # 💻 Tech Stack:
