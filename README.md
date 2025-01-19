@@ -1,5 +1,5 @@
 # 💫 Sombre Mi:
-Soy estudiante de la Universidad Técnica de Cotopaxi.<br>Quisiera trabajar en una empresa de desarrollo de software.<br>Estoy en etapa de aprendizaje.
+Soy ingeniero en Sistemas de Información.<br>Me gusta el desarrollo de software.<br>Estoy en etapa de aprendizaje.
 
 
 ## 🌐 Redes Sociales:
