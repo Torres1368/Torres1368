@@ -1,5 +1,5 @@
 # 💫 Sombre Mi:
-Soy ingeniero en Sistemas de Información.<br>Me gusta el desarrollo de software.<br>Estoy en etapa de aprendizaje.
+Soy ingeniero en Sistemas de Información.<br>Me gusta el desarrollo de software.<br>Me gusta aprender nuevas tecnologias!.
 
 
 
