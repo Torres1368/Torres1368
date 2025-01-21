@@ -37,3 +37,16 @@ I am committed to continuous learning and seek opportunities that challenge me t
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Torres1368&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Torres1368)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Torres1368&theme=material-palenight)](https://github.com/Elanza-48)
+
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
