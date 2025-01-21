@@ -11,9 +11,9 @@ I am enthusiastic about learning new technologies and applying them in real proj
 I am committed to continuous learning and seek opportunities that challenge me to grow both technically and professionally. My goal is to contribute innovative solutions that make a positive impact.
 * **I am interested in Web designing**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
+  - Node.js
+  - React
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 📫 Reach out to me at: <a href="">roberth.torres1368@gmail.com</a>
