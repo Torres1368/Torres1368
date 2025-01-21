@@ -1,19 +1,16 @@
-# 💫 Sombre Mi:
-Soy ingeniero en Sistemas de Información.<br>Me gusta el desarrollo de software.<br>Me gusta aprender nuevas tecnologias!.
+<h1 align="center">Hola , soy Roberth Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
+<img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Torres1368&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Torres1368&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres1368&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Torres1368&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing, Android development, and digital marketing**
+- 🌱 I’m currently learning ...
+  - Java
+  - React js
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
