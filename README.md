@@ -5,8 +5,11 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+
+I am a systems engineer with a great passion for technology and software development. I currently work as a freelancer, designing and developing custom technology solutions and solving problems that arise in different projects.
+I am enthusiastic about learning new technologies and applying them in real projects, which allows me to expand my knowledge and keep up to date with trends in the area.
+I am committed to continuous learning and seek opportunities that challenge me to grow both technically and professionally. My goal is to contribute innovative solutions that make a positive impact.
+* **I am interested in Web designing**
 - 🌱 I’m currently learning ...
   - Java
   - React js
