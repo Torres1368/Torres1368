@@ -11,7 +11,7 @@ I am enthusiastic about learning new technologies and applying them in real proj
 I am committed to continuous learning and seek opportunities that challenge me to grow both technically and professionally. My goal is to contribute innovative solutions that make a positive impact.
 * **I am interested in Web designing**
 - 🌱 I’m currently learning ...
-  - Node.js
+  - NestJS
   - React
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
