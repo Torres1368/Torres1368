@@ -1,9 +1,9 @@
-<h1 align="center">Hi , I'm Roberth Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , Soy Roberth Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" />
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
 
 Soy ingeniero de sistemas con una gran pasión por la tecnología y el desarrollo de software. Actualmente trabajo como freelance, diseñando y desarrollando soluciones tecnológicas a medida y resolviendo problemas que surgen en diferentes proyectos. Me entusiasma aprender nuevas tecnologías y aplicarlas en proyectos reales, lo que me permite ampliar mis conocimientos y mantenerme actualizado con las tendencias en el área. Estoy comprometido con el aprendizaje continuo y busco oportunidades que me desafíen a crecer tanto técnica como profesionalmente. Mi objetivo es aportar soluciones innovadoras que tengan un impacto positivo.
