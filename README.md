@@ -6,17 +6,16 @@
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
-I am a systems engineer with a great passion for technology and software development. I currently work as a freelancer, designing and developing custom technology solutions and solving problems that arise in different projects.
-I am enthusiastic about learning new technologies and applying them in real projects, which allows me to expand my knowledge and keep up to date with trends in the area.
-I am committed to continuous learning and seek opportunities that challenge me to grow both technically and professionally. My goal is to contribute innovative solutions that make a positive impact.
-* **I am interested in Web designing**
-- 🌱 I’m currently learning ...
+Soy ingeniero de sistemas con una gran pasión por la tecnología y el desarrollo de software. Actualmente trabajo como freelance, diseñando y desarrollando soluciones tecnológicas a medida y resolviendo problemas que surgen en diferentes proyectos. Me entusiasma aprender nuevas tecnologías y aplicarlas en proyectos reales, lo que me permite ampliar mis conocimientos y mantenerme actualizado con las tendencias en el área. Estoy comprometido con el aprendizaje continuo y busco oportunidades que me desafíen a crecer tanto técnica como profesionalmente. Mi objetivo es aportar soluciones innovadoras que tengan un impacto positivo.
+
+* **Estoy interesado en el desarrollo web**
+- 🌱 Actualmente estoy aprendiendo ...
   - NestJS
   - React
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help!😉<br>
-- - Outside tech, I love to watch documentaries, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="">roberth.torres1368@gmail.com</a>
+- 👯 Estoy abierto a olaborar en proyectos de interés común.
+- ✔ Preguntame cualquier cosa, Estaré encantado de ayudar en lo que pueda!😉<br>
+- ☺️ Fuera de la tecnología, Me gusta ver documentales, 🎵 escuchar música, y 🌴 visitar parques al aire libre.
+- 📫 Puedes contactarme mediante: <a href="">roberth.torres1368@gmail.com</a>
 
 
 # 💻 Tech Stack:
